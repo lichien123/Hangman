@@ -1,0 +1,45 @@
+body {
+	background-image: url("assets/images/dog-weeb.jpg");
+}
+
+section {
+	border: 2px solid black;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	height: 720px;
+	width: 500px;
+}
+
+.info-text {
+	padding: 13px;
+}
+
+#underscores {
+	font-size: 40px;
+	letter-spacing: 10px;
+}
+
+div {
+	text-align: center;
+}
+
+.banner {
+	height: 200px;
+	width: 100%;
+}
+
+.hangman {
+	position: relative;
+	bottom: 55px;
+	left: 250px;
+	background-color: lightpink;
+	color: darkturquoise;
+	width: 33%;
+}
+
+.img-size {
+	width: 300px;
+	height: 300px;
+	margin-bottom: 100px;
+}
